@@ -37,7 +37,6 @@ PRODUCT_PACKAGES += \
     libOpenCv.camera.samsung \
     libblurdetection \
     libblurdetection_interface \
-    libcsc \
     libexynoscamera \
     libexynoscamera3 \
     libfocuspeaking \
