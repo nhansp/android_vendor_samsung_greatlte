@@ -420,6 +420,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libhifistill.so",
             ],
             shared_libs: [
+                "libprocessgroup",
                 "libopenvx",
                 "libvxu",
                 "libiva_android_hal",
