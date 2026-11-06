@@ -421,6 +421,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libhifistill.so",
             ],
             shared_libs: [
+                "libshim_cxa_demangle",
                 "libprocessgroup",
                 "libopenvx",
                 "libvxu",
