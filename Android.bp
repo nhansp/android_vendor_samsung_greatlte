@@ -171,7 +171,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libOpenCv.camera.samsung.so",
             ],
             shared_libs: [
-                "libcompiler_rt",
+                "libcompiler_rt-samsung",
                 "libc++",
                 "libdl",
                 "libm",
@@ -916,7 +916,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libxcv.camera.samsung.so",
             ],
             shared_libs: [
-                "libcompiler_rt",
+                "libcompiler_rt-samsung",
                 "libOpenCv.camera.samsung",
                 "libc++",
                 "libdl",
