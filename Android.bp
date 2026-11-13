@@ -299,6 +299,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libexynoscamera3.so",
             ],
             shared_libs: [
+                "libshim_fence",
                 "libutils",
                 "libcutils",
                 "liblog",
